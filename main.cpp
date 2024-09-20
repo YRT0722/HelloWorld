@@ -1,0 +1,6 @@
+#inclde<iostream>
+
+int main()
+{
+ 
+}
